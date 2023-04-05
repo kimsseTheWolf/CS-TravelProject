@@ -7,6 +7,11 @@ body{
   margin: 0px;
   padding: 0px;
 }
-.image_title{
-  width: auto;
+.title_image_block{
+  background-image: url("./images/titlebg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
 }
